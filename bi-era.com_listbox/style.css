@@ -121,11 +121,11 @@ color:#FFFFFF !important;
 }
 .listbox p.stateA{
 	background-image: none;
-	background-color: #ddd;
+	background-color: #FFFFFF;
 	color: #000;
 }
 .listbox p.stateA, .listbox p.stateS{
-border-right:#FFFFFF solid 1px;border-bottom:#CCCCCC 1px solid !important;
+border-right:#ddd solid 1px;border-bottom:#CCCCCC 1px solid !important;
 }
 .listbox p.stateO{border-right:#CCCCCC solid 1px;
 }
